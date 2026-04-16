@@ -1,0 +1,27 @@
+1. Populate ticket_created_at
+
+
+=VLOOKUP(A2, ticket!E:F, 2, FALSE)
+
+OR
+
+=XLOOKUP(A2, ticket!E:E, ticket!B:B)
+
+2a. Same day created & closed
+
+=COUNTIFS(
+created_date_range, date,
+closed_date_range, date,
+outlet_range, outlet_id
+)
+
+2b. Same hour
+
+Create helper:
+
+=TEXT(created_at,"yyyy-mm-dd hh")
+=TEXT(closed_at,"yyyy-mm-dd hh")
+
+Then:
+
+=COUNTIFS(created_hour, X, closed_hour, X)
