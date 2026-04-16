@@ -1,3 +1,4 @@
+# Business-focused Data Analysis project using SQL, Excel, and Python to solve real-world problems
 # 🚀 PlatinumRx Data Analyst Assignment
 
 ## 🔍 Business-Oriented Data Analysis Project
