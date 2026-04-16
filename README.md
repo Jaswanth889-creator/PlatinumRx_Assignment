@@ -58,8 +58,8 @@ This project solves these using structured data analysis.
 
 ## 🔗 Project Links
 
-* 📊 Spreadsheet: [Add Google Sheets Link Here]
-* 🎥 Screen Recording: [Add Drive Link Here]
+* 📊 Spreadsheet: https://1drv.ms/x/c/e6a2153469ec67c7/IQAKaqW1LcRYSZumXh13ZoaYAd9MYg7RpK_tipWRcl_ksYc?e=UiJl6e
+* 🎥 Screen Recording: https://drive.google.com/file/d/1YDb2M_iJGw3ZhWt70T-yZ8cXL__oPdkR/view?usp=sharing
 
 ---
 
